@@ -1,5 +1,5 @@
 body{
-    background-color: yellow
+    background-color: aqua;
 }
 
 li{
@@ -9,16 +9,18 @@ li{
 h1{
     text-align: center;
     color: orangered;
-    text-decoration: blue;
+    text-decoration-line: underline;
+    text-decoration-color: blue;
 }
 
 h2{
     color: red;
-    text-decoration: blue;
+    text-decoration-line: underline;
+    text-decoration-color: blue;
 }
 
 p{
-    font-size: x-large;
+    font-size: 25px;
 }
 
 img{
